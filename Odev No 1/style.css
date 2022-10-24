@@ -1,0 +1,93 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    background-color: #2f3035;
+    background-image: url(images/Kastamonu_from_above.jpg);
+    background-size: cover;
+    
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+
+    height: 118px;
+    text-align: center;
+
+}
+nav {
+    background-color: rgba(119, 119, 119, 0.726);
+    height: 40px;
+
+}
+
+main {
+    background-color: #ed180090;
+    height: 1000px;
+
+}
+
+
+h1 {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+
+}
+
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+h6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+h7 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+h8 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+
+}
+
+h9 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
